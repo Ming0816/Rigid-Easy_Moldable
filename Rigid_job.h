@@ -1,0 +1,6 @@
+#include "SchedulerFCFS.h"
+#include "SchedulerFirstAvailable.h"
+#include "SchedulerSmallestFirst.h"
+#include "SchedulerLargestFirst.h"
+#include "SchedulerEASY.h"
+#include "SchedulerConservative.h"

@@ -1,0 +1,1 @@
+g++ main.cpp Event.cpp Process.cpp SchedulerFCFS.cpp SchedulerSmallestFirst.cpp SchedulerLargestFirst.cpp SchedulerEASY.cpp SchedulerConservative.cpp SchedulerFirstAvailable.cpp Adaptive_down.cpp Adaptive_up_down.cpp Restrict_up_down.cpp UpperBound.cpp UpperBound_up_down.cpp && ./a.out
